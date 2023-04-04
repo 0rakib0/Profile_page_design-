@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+.my_desing{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: rgb(202, 202, 202);
+}
+
+
+.bio{
+    height: auto;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.bio p{
+    margin-bottom: 20px;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+.my_button .btn{
+    width: 150px;
+    text-align: center;
+    margin-left: 6px;
+}
+
+.my_button .hover:hover{
+    background-color: #317cec;
+    color: white;
+}
+
+.social-icon{
+    padding-top: 10px;
+    margin-right: 20px;
+}
+
+.social-icon .btn{
+    width: 50px;
+    margin-left: 6px;
+    width: 80px;
+    
+}
+
+.social-icon .btn i{
+    font-size: 25px;
+}
+
+.shedule button{
+    margin-top: 10px;
+    width: 200px;
+}
+
+.shedule a{
+    margin-top: 10px;
+    width: 200px;
+}
+
+
+
